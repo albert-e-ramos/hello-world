@@ -9,3 +9,7 @@ I learned how to:
 *Start and manage a new branch
 *Change a file and committ those changes to GitHub
 *Opened and merged a Pull Request
+
+Now, I am practicing without reference to the tutorial.
+I will only use it in the case I am stuck or make a mistake.
+Learning fuels growth and I am determined to grow!
